@@ -1,4 +1,4 @@
-<< Hyper Package developed by Hojun You >>
+<< Hyper Package developed by SVDHL, Sejong University >>
 
 This is not an open-source software.
 Redistribution is strictly prohibited.
